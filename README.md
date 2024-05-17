@@ -12,7 +12,7 @@ My Goals includes the following:
 ### (your step 2)
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.) The area that chose was Belfast, and there were not enough point of interest data that I could obtain from the Foursquare API. Specifically, there was no information on the ratings of the restaurants that were in my area of interets. This resulted in me relying on just the number of restaurants that were 1000m away from the bike stations from my area of interets. I feel like the lack of comparative quality limited the strength of my model.
+ The area that chose was Belfast, and there were not enough point of interest data that I could obtain from the Foursquare API. Specifically, there was no information on the ratings of the restaurants that were in my area of interets. This resulted in me relying on just the number of restaurants that were 1000m away from the bike stations from my area of interets. I feel like the lack of comparative quality limited the strength of my model.
 
 ## Challenges 
 A major challenge I faced was my YELP API not working. I sort for help with mentors and peers and it was not easily fixed, which made me have to settle ot use the foursquare API
